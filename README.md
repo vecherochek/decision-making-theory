@@ -8,7 +8,7 @@
 | Дата | Задание | Решение | Дополнительные ссылки
 |:----:|:----|:----|:----|
 | 07.03.2023 | [Предсказание с помощью экспертов](./tasks/hw1.pdf) | [Теоретическая задача](https://github.com/vecherochek/decision-making-theory/blob/main/decisions/decision_making_theory_theoretical_task.pdf) | [Часть 3. Поиск минимума](https://www.desmos.com/calculator/enqucsrspm) <br /> [Исходник LaTeX](https://www.overleaf.com/read/qpnvccrvmtky)
-| 20.04.2023 | [Онлайн формирование портфеля ценных бумаг](https://github.com/vecherochek/decision-making-theory/blob/main/decisions/hw2.ipynb) | [Решение задания](https://github.com/vecherochek/decision-making-theory/blob/main/decisions/hw2.ipynb) | [Данные](https://finance.yahoo.com/quote/yhoo/history/) |
+| 20.04.2023 | [Онлайн формирование портфеля ценных бумаг](https://github.com/vecherochek/decision-making-theory/blob/main/decisions/hw2.ipynb) | [Решение задания](https://github.com/vecherochek/decision-making-theory/blob/main/decisions/hw2.ipynb) | [Данные](https://github.com/vecherochek/decision-making-theory/blob/main/decisions/data.csv) |
 
 ## Литература
 
